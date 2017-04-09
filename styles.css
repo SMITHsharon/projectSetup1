@@ -1,0 +1,33 @@
+
+h4 {
+	margin-top: 2%;
+	margin-left: 2%;
+	color: royalblue;
+}
+
+
+h1 {
+	font-size: 4em;
+}
+
+
+#asking {
+	margin-top: 10%;
+}
+
+
+#buttonDiv, #zoe {
+	margin: 2%;
+	margin-left: 50px;
+}
+
+
+.hidden {
+	display: none;
+}
+
+
+.visible {
+	display: block;
+}
+
