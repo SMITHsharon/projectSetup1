@@ -7,8 +7,8 @@ $("#zoe").click(function (){
   $("#asking").addClass("hidden");
   $("#zoe").addClass("hidden");
 
-  $("#heartGif").removeClass("hidden");
-  $("#heartGif").addClass("visible");
+  $("#kittenGif").removeClass("hidden");
+  $("#kittenGif").addClass("visible");
 
 });
 
