@@ -5,11 +5,11 @@ This assignment is the first of five, to walk through the Project Setup process 
 
 
 #### ZoeLove Project SetUp Launch
-![ZoeLove Project SetUp Launch](https://raw.githubusercontent.com/SMITHsharon/projectSetup1/screens/screens/ZoeLove%20on%20Launch.png)
+![ZoeLove Project SetUp Launch](https://raw.githubusercontent.com/SMITHsharon/projectSetup1/zoeLove/screens/ZoeLove%20on%20Launch.png)
 
 
 #### ZoeLove on Click
-![ZoeLove on Click](https://raw.githubusercontent.com/SMITHsharon/projectSetup1/screens/screens/ZoeLove%20on%20Click.png)
+![ZoeLove on Click](https://raw.githubusercontent.com/SMITHsharon/projectSetup1/zoeLove/screens/ZoeLove%20on%20Click.png)
 
 
 ### Project Specs
